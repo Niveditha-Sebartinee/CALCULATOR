@@ -25,7 +25,6 @@ function calculate() {
   let num2 = "";
   let op = "";
 
-  // find operator
   for (let i = 0; i < exp.length; i++) {
     if ("+-*/".includes(exp[i])) {
       op = exp[i];

@@ -32,8 +32,8 @@ function calculate() {
       num2 = exp.slice(i + 1);
       break;
     }
+  
   }
-
   let a = Number(num1);
   let b = Number(num2);
   let result = 0;

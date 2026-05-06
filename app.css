@@ -13,7 +13,7 @@ body{
     padding: 15px;
     border-radius: 10px;
 }
-.display-box{
+#display{
     width: 98%;
     height: 55px;
     margin-bottom: 10px;
